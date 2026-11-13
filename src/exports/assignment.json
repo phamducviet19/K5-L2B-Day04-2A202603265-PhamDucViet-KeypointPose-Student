@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202603265",
+ "ten": "PhamDucViet",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "admin",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000021235.jpg",
+  "000000162046.jpg",
+  "000000194027.jpg",
+  "000000336477.jpg",
+  "000000390585.jpg",
+  "000000030960.jpg",
+  "000000302102.jpg",
+  "000000467300.jpg",
+  "000000069971.jpg",
+  "000000307757.jpg",
+  "000000150192.jpg",
+  "000000413160.jpg"
+ ],
+ "faces": [
+  "face_122747.jpg",
+  "face_141135.jpg",
+  "face_257657.jpg",
+  "face_264124.jpg",
+  "face_442231.jpg",
+  "face_514826.jpg",
+  "face_296767.jpg",
+  "face_560282.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 11,
+   "job_id": 11,
+   "task_name": "persons-PhamDucViet"
+  },
+  "faces": {
+   "task_id": 12,
+   "job_id": 12,
+   "task_name": "faces-PhamDucViet"
+  }
+ }
+}
